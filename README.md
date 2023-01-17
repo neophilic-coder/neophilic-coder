@@ -1,3 +1,4 @@
+![logo](https://github.com/neophilic-coder/neophilic-coder/blob/main/git%20banner.png)
 <h1 align="center">Hi 👋, I'm Nandini Agarwal</h1>
 <h3 align="center">An AIML enthusiast</h3>
 
